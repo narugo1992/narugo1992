@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://gitroll.io/profile/uNz8AKK042SWlPsOiwXL0DRzaxR22" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNz8AKK042SWlPsOiwXL0DRzaxR22?theme=light" alt="GitRoll Profile Badge"/></a>
+
 <!--
 **narugo1992/narugo1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
